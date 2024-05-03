@@ -1,4 +1,3 @@
-# OptimalParenthesizationMatrixChain
 
 # Matrix Chain Multiplication Optimizer
 
