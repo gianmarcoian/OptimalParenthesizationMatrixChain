@@ -1,0 +1,14 @@
+Worst Parenthesization::
+Parenthesization:
+((A1*((A2*A3)*A4))*A5)
+Postfix Expression:
+A1A2A3*A4**A5*
+Number of scalar multiplications needed: 1716
+
+Optimal Parenthesization::
+Parenthesization:
+((A1*A2)*((A3*A4)*A5))
+Postfix Expression:
+A1A2*A3A4*A5**
+Number of scalar multiplications needed: 945
+
